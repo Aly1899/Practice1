@@ -1,6 +1,7 @@
 x = input("Please enter the first number: ")
 y = input("Please enter the second number: ")
 
+# setting the variable as empty lists
 i_array = []
 j_array = []
 
