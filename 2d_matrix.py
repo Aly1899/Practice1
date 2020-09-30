@@ -1,3 +1,5 @@
+You Can learn the function of FOR in python also as ARRAY function which is very important
+
 x = input("Please enter the first number: ")
 y = input("Please enter the second number: ")
 
